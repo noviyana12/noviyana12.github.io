@@ -56,7 +56,7 @@ const ProjectSection = () => {
                             </a>
                         </Col>
                         <Col md={3} sm={6} xs={12} className="text-center card-project">
-                            <a>
+                            <a href="https://binair-stagging-production.up.railway.app/" target="_blank">
                                 <img src={project_6} alt="Airline Ticket Booking" className="card-project-img"></img>
                                 <h4>Airline Ticket Booking</h4>
                                 <p>Web Application</p>
